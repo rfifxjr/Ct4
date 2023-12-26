@@ -1,0 +1,1 @@
+{"uuid": "92b7200c-6230-4c95-a60c-c96d060b114a", "children": ["a0568f9c-a0de-48c8-980d-a2c7015563ed"], "befores": [{"name": "random_dog_img", "status": "passed", "steps": [{"name": "Получение случайного изображения", "status": "passed", "start": 1701282537389, "stop": 1701282537652}], "start": 1701282537389, "stop": 1701282537652}], "start": 1701282537389, "stop": 1701282537652}
